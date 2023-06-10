@@ -150,3 +150,14 @@ body {
     padding-top: 20px;
     color: #fafafa;
 }
+.col-left {
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+    width: 30%;
+    font-family: oswald;
+    font-weight: bold;
+    font-size: 150%;
+    padding-top: 20px;
+    color: orange;
+}
