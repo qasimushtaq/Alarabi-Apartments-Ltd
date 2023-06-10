@@ -138,15 +138,15 @@ body {
 
 }
 
-/*Style for columns within the left handside banner*/
-#banner-left {
-    color: orange;
-    background-color: #fafafa;
-    border-radius: 10px;
-    width: 80%;
-    height: 150px;
-    float: left;
-    padding: 30px 0 10px 10px;
-    text-align: center;
-
+/*Style for columns within the banners*/
+.col-right {
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+    width: 30%;
+    font-family: oswald;
+    font-weight: bold;
+    font-size: 150%;
+    padding-top: 20px;
+    color: #fafafa;
 }
