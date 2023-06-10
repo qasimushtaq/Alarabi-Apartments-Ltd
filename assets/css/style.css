@@ -122,3 +122,16 @@ body {
     text-align: center;
     font-size: 280%;
 }
+/*Right handside banner style*/
+#banner-right {
+    color: #fafafa;
+    background-color: rgba(254, 158, 49, 0.6);
+
+    width: 80%;
+    height: 150px;
+    float: right;
+    padding: 30px 0 10px 10px;
+    text-align: center;
+    border-radius: 10px;
+
+}
