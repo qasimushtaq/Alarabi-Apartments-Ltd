@@ -50,3 +50,25 @@ body {
     float: right;
     line-height: 150px;
 }
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url("https://www.quillsuk.co.uk/wp-content/uploads/2020/05/Cleaning-Hygiene-Services-header-1500x430.jpg.webp")no-repeat center center;
+
+    /* Animates zoom effect on loading the page */
+    animation-name: hero-zoom;
+    animation-duration: 3s;
+    animation-direction: alternate-reverse;
+}
+
+/* Creates the level of zoom for hero image */
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
