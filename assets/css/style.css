@@ -110,3 +110,15 @@ body {
     display: inline-block;
     font-size: 16px;
 }
+/*Welcome message style added*/
+#welcome-message {
+    height: 200px;
+}
+
+
+
+#welcome {
+    margin: 10px 0;
+    text-align: center;
+    font-size: 280%;
+}
