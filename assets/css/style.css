@@ -72,3 +72,41 @@ body {
         transform: scale(1.1);
     }
 }
+
+/*Cover text on the image stayle*/
+#cover-text,
+#cover-text h2 {
+    color: orange;
+}
+
+#cover-text {
+    font-size: 200%;
+    font-family: Oswald;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+    border: grey;
+
+    width: 80%;
+    height: 200px;
+
+
+    background-color: rgba(254, 158, 49, 0);
+
+    bottom: 200px;
+    right: 150px;
+
+    position: absolute;
+
+}
+
+#hero-button {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
