@@ -110,6 +110,7 @@ body {
     display: inline-block;
     font-size: 16px;
 }
+
 /*Welcome message style added*/
 #welcome-message {
     height: 200px;
@@ -122,6 +123,7 @@ body {
     text-align: center;
     font-size: 280%;
 }
+
 /*Right handside banner style*/
 #banner-right {
     color: #fafafa;
@@ -133,5 +135,18 @@ body {
     padding: 30px 0 10px 10px;
     text-align: center;
     border-radius: 10px;
+
+}
+
+/*Style for columns within the left handside banner*/
+#banner-left {
+    color: orange;
+    background-color: #fafafa;
+    border-radius: 10px;
+    width: 80%;
+    height: 150px;
+    float: left;
+    padding: 30px 0 10px 10px;
+    text-align: center;
 
 }
