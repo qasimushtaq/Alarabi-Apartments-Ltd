@@ -163,6 +163,7 @@ body {
     color: orange;
 }
 
+/*Company services style*/
 .about {
     float: left;
     width: 25%;
@@ -193,4 +194,35 @@ body {
     padding: 10px;
     font-size: 110%;
     text-align: justify;
+}
+/* Footer */
+
+footer {
+    background-color: rgba(254, 158, 49, 0.6);
+    padding: 1em;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    right: 0;
+    z-index: 3;
+    height: 80px;
+
+}
+
+footer>span {
+    color: white;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+footer>a {
+    color: white;
+    text-decoration: none;
+    padding: 0 15px;
+    font-size: 1rem;
+}
+
+footer>p {
+    color: #3a3a3a;
+
 }
