@@ -438,3 +438,10 @@ img {
     .about p {
         font-size: 90%;
     }
+    footer>span {
+        font-size: 1rem;
+    }
+    
+    footer {
+        width: 210%;
+    }
