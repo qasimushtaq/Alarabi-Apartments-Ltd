@@ -1,5 +1,3 @@
-![Alarabi logo](https://8000-qasimushtaq-alarabi-apar-nxl2oemk8x.us2.codeanyapp.com/assets/images/alarabi.png)
-
 ## [Welcome to Alarabi Property Management & Cleaning Services Ltd.](https://8000-qasimushtaq-alarabi-apar-nxl2oemk8x.us2.codeanyapp.com/index.html)
 
 This is a website I am developing for Alarabi Property Management & Cleaning Services Ltd, a family run Property business based in UK.
