@@ -458,3 +458,6 @@ img {
         font-size: 45px;
         text-align: center;
     }
+    #customers {
+        width: 130%;
+    }
