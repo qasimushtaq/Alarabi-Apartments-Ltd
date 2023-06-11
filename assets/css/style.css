@@ -278,3 +278,16 @@ img {
     text-align: center;
 }
 /*Contact us CSS starts here*/
+.ccheader {
+    margin: 0 auto;
+    padding: 2em;
+    text-align: center;
+    color: orange;
+}
+
+.ccheader h1 {
+    margin: 0;
+    font-weight: 300;
+    font-size: 2.5em;
+    line-height: 1.3;
+}
