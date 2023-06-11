@@ -427,3 +427,14 @@ img {
     .col-left {
         font-size: 100%;
     }
+    .about {
+        width: 50%;
+    }
+    
+    .about h2 {
+        font-size: 100%;
+    }
+    
+    .about p {
+        font-size: 90%;
+    }
