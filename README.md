@@ -1,39 +1,37 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![Alarabi logo](https://8000-qasimushtaq-alarabi-apar-nxl2oemk8x.us2.codeanyapp.com/assets/images/alarabi.png)
 
-Welcome,
+## [Welcome to Alarabi Property Management & Cleaning Services Ltd.](https://8000-qasimushtaq-alarabi-apar-nxl2oemk8x.us2.codeanyapp.com/index.html)
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+This is a website I am developing for Alarabi Property Management & Cleaning Services Ltd, a family run Property business based in UK.
+The focus of this website is to provide customers with information about the business and to develop an online presence for the business. 
+Currently, it is vital to stay connected with customers and is the key to securing the future 
+of the business and it is important to develop a positive online presense to retain existing customers and also to attract new customers. The website includes
+the following sections: Home Page (Description of business?), About us (What they do?), and a contact us Page. This project will be on-going and will be updated regularly and changes made to suit the needs and requirements of both the owner and the users.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+#### The Business Objectives
+1. To develop an online presence.
+2. Increase business awareness.
+3. Expand the target audience reach.
+4. To showcase the services we offer.
+5. Provide easily accessible information to customers.
+6. To develop online communication with our customer base.
 
-## Codeanywhere Reminders
+#### Customer Objectives
+1. To gain access to business information.
+2. To access business opening hours and contact details.
+3. To be able to get in touch with the business.
+4. To see customer reviews of the business and services provided.
+5. Location information.
+6. Easily access information required.
+7. To be able to book online
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+##### Future goals
+* Ability to develop an online system for customers and B2B.
+* To develop a system so that customer get a quote online.
 
-`python3 -m http.server`
+## UX
+ 
+This website is for customers, to provide up to date, relevant and easily available information about the business and the services it provides.
+The objective of this project is to develop a user-friendly platform that both new and existing customers can use for a range of purposes which were identified through research, from the perspective of the business and user perspective. 
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+From business perspective, there are two types of customers, one is normal customer who can see business services and information and other is B2B customer who can contact business to make a long term business relationship. 
