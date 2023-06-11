@@ -137,7 +137,18 @@ body {
     border-radius: 10px;
 
 }
-/*
+/*Left hand banner CSS*/
+#banner-left {
+    color: orange;
+    background-color: #fafafa;
+    border-radius: 10px;
+    width: 80%;
+    height: 150px;
+    float: left;
+    padding: 30px 0 10px 10px;
+    text-align: center;
+
+}
 
 /*Style for columns within the banners*/
 .col-right {
