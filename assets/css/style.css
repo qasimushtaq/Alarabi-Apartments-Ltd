@@ -401,3 +401,11 @@ img {
     #hero-image {
         width: 210%;
     }
+    #welcome {
+        font-size: 200%;
+    
+    }
+    
+    #welcome-message {
+        width: 200%;
+    }
