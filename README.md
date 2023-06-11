@@ -77,8 +77,7 @@ the images are loading propertly.
 
 
 ### Media
-- The photos used in this site were obtained from ...
+- The photos used are taken from [Google Images](https://www.google.com/search?q=cleaning+service+images&biw=1536&bih=746&sxsrf=APwXEde9bapiLvNkMqHQew_EkPmYlBBRyg:1685216163676&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjDzbi2n5b_AhU7VaQEHeJQBmUQ_AUoAXoECAEQAw#imgrc=OxYVENRLDAL3TM)
 
-### Acknowledgements
 
-- I received inspiration for this project from X
+
