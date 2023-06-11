@@ -478,3 +478,14 @@ img {
     .ccbtn {
         margin-left: 45%;
     }
+
+    .google-map iframe {
+        width: 210%;
+        height: 80%;
+    }
+    
+    .google-map h3 {
+        padding-top: 20px;
+        padding-left: 60%;
+    }
+    }
