@@ -445,3 +445,16 @@ img {
     footer {
         width: 210%;
     }
+    .wrapper img {
+        float: none;
+        margin-right: 50px;
+    }
+    
+    .text-box {
+        width: 210%;
+    }
+    
+    .text-box h2 {
+        font-size: 45px;
+        text-align: center;
+    }
