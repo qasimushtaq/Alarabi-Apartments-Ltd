@@ -41,3 +41,17 @@ From business perspective, there are two types of customers, one is normal custo
  - Home Page ( list of services, and general description of the business)
  - About Page (paprgraph about company, image, customer review)
  - Contact Us (contact form, map)
+
+ ### Existing Features
+
+- Header & footer
+- Home Page
+- About us Page
+- Contact Us Page 
+
+### Features Left to Implement
+- online system to book a service
+- FAQ Page
+- CAPTCHA feature on contact form
+- Get a quote online feature
+- Property managment services 
