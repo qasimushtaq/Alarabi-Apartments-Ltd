@@ -291,3 +291,56 @@ img {
     font-size: 2.5em;
     line-height: 1.3;
 }
+
+/* Form CSS*/
+.ccform {
+    margin: 0 auto;
+    width: 800px;
+
+}
+
+.ccfield-prepend {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.ccform-addon {
+    color: #f8ae45;
+    float: left;
+    padding: 8px;
+    width: 8%;
+    background: white;
+    text-align: center;
+}
+
+.ccformfield {
+    color: #000000;
+    background: lightgray;
+    border: none;
+    padding: 15.5px;
+    width: 91.9%;
+    display: block;
+    font-family: Oswald;
+    font-size: 16px;
+}
+
+.ccformfield {
+    font-family: Oswald;
+}
+
+.ccbtn {
+    display: block;
+    border: none;
+    background: #f8ae45;
+    color: #FFFFFF;
+    padding: 12px 25px;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+.ccbtn:hover {
+    background: #d8850e;
+
+}
