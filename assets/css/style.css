@@ -381,6 +381,7 @@ img {
 /*small Screen adjusments*/
 
 @media screen and (max-width: 800px) {
+    /*Header CSS for all pages*/
     .header a {
 
         display: block;
@@ -390,17 +391,18 @@ img {
     .header-right {
         float: none;
     }
-
+    /*Text on Image CSS*/
     #cover-text {
         left: 220px;
 
 
         font-size: 150%;
     }
-
+    /*main image css*/
     #hero-image {
         width: 210%;
     }
+    /*main headline css*/
     #welcome {
         font-size: 200%;
     
@@ -409,6 +411,7 @@ img {
     #welcome-message {
         width: 200%;
     }
+    /*banners on home page css*/
     #banner-left {
     
         width: 150%;
