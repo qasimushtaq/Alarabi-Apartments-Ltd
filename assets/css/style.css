@@ -450,6 +450,7 @@ img {
     footer {
         width: 210%;
     }
+    /*css for image and text on about us page*/
     .wrapper img {
         float: none;
         margin-right: 50px;
