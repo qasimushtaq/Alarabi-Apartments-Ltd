@@ -55,3 +55,8 @@ From business perspective, there are two types of customers, one is normal custo
 - CAPTCHA feature on contact form
 - Get a quote online feature
 - Property managment services 
+
+## Technologies Used
+- To build this project, basic HTML has been used and CSS is used to style all the pages. 
+- The project was first built in [replit](replit.com) and then later it is moved to [Code anywhere](app.codeanywhere.com) IDE     platform. 
+-The project has been then shared to github. 
