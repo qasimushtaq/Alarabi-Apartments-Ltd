@@ -62,8 +62,23 @@ From business perspective, there are two types of customers, one is normal custo
 - The project has been then shared to github. 
 
 ## Testing
-The project has been tested thoroughly to the best of my knowledge. All the navbar has been functional and pages are updated. 
+- The project has been tested thoroughly to the best of my knowledge. All the navbar has been functional and pages are updated. 
 the images are loading propertly. 
-The contact form will be functional later on. 
-The desktop version of the project has been working. 
-The mobile version is working but the tablet version is not not working and will be rectified later on using other functions such as Javascript.  
+- The contact form will be functional later on. 
+- The desktop version of the project has been working. 
+- The mobile version is working but the tablet version is not not working and will be rectified later on using other functions such as Javascript. 
+
+## Credits
+
+### Content
+- The text for the pages has been taken from the business website of [L&M Property cleaning Services](https://lmcleaningservices.co.uk/)
+- The main image idea has been taken from Code institute Love Running Project. 
+- The contact us form code has been taken from [Codepen](https://codepen.io/codeconvey/pen/bGdYvw)
+
+
+### Media
+- The photos used in this site were obtained from ...
+
+### Acknowledgements
+
+- I received inspiration for this project from X
