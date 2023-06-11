@@ -35,3 +35,9 @@ This website is for customers, to provide up to date, relevant and easily availa
 The objective of this project is to develop a user-friendly platform that both new and existing customers can use for a range of purposes which were identified through research, from the perspective of the business and user perspective. 
 
 From business perspective, there are two types of customers, one is normal customer who can see business services and information and other is B2B customer who can contact business to make a long term business relationship. 
+
+## Features
+ - General (navbar, logo, footer, social links)
+ - Home Page ( list of services, and general description of the business)
+ - About Page (paprgraph about company, image, customer review)
+ - Contact Us (contact form, map)
