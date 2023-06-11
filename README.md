@@ -59,4 +59,11 @@ From business perspective, there are two types of customers, one is normal custo
 ## Technologies Used
 - To build this project, basic HTML has been used and CSS is used to style all the pages. 
 - The project was first built in [replit](replit.com) and then later it is moved to [Code anywhere](app.codeanywhere.com) IDE     platform. 
--The project has been then shared to github. 
+- The project has been then shared to github. 
+
+## Testing
+The project has been tested thoroughly to the best of my knowledge. All the navbar has been functional and pages are updated. 
+the images are loading propertly. 
+The contact form will be functional later on. 
+The desktop version of the project has been working. 
+The mobile version is working but the tablet version is not not working and will be rectified later on using other functions such as Javascript.  
