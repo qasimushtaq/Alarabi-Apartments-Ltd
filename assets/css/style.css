@@ -409,3 +409,21 @@ img {
     #welcome-message {
         width: 200%;
     }
+    #banner-left {
+    
+        width: 150%;
+    }
+    
+    #banner-right {
+        margin-left: 200px;
+        Width: 150%;
+        float: none;
+    }
+    
+    .col-right {
+        font-size: 100%;
+    }
+    
+    .col-left {
+        font-size: 100%;
+    }
