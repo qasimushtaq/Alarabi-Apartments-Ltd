@@ -461,3 +461,20 @@ img {
     #customers {
         width: 130%;
     }
+
+    .ccfield-prepend {
+        width: 90%;
+    }
+    
+    .ccheader h1 {
+        text-align: center;
+    }
+    
+    .ccheader {
+        width: 200%;
+        padding-top: 125%;
+    }
+    
+    .ccbtn {
+        margin-left: 45%;
+    }
