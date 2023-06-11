@@ -344,3 +344,24 @@ img {
     background: #d8850e;
 
 }
+/*Google map CSS*/
+.google-map {
+    padding-bottom: 50%;
+    position: relative;
+
+}
+
+.google-map iframe {
+    height: 80%;
+    width: 100%;
+    left: 0;
+    top: 60px;
+    position: absolute;
+}
+
+.google-map h3 {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: orange;
+}
