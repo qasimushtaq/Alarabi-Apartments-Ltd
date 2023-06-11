@@ -430,6 +430,7 @@ img {
     .col-left {
         font-size: 100%;
     }
+    /*css for about us columns on home page*/
     .about {
         width: 50%;
     }
@@ -441,6 +442,7 @@ img {
     .about p {
         font-size: 90%;
     }
+    /*css for footer for all pages*/
     footer>span {
         font-size: 1rem;
     }
