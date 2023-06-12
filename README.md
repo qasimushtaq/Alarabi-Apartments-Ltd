@@ -65,6 +65,13 @@ the images are loading propertly.
 - The contact form will be functional later on. 
 - The desktop version of the project has been working. 
 - The mobile version is working but the tablet version is not not working and will be rectified later on using other functions such as Javascript. 
+- The CSS has been validated by W3Schools Validator and no error was found. <p>
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+    </a>
+</p>
 
 ## Credits
 
@@ -72,6 +79,7 @@ the images are loading propertly.
 - The text for the pages has been taken from the business website of [L&M Property cleaning Services](https://lmcleaningservices.co.uk/)
 - The main image idea has been taken from Code institute Love Running Project. 
 - The contact us form code has been taken from [Codepen](https://codepen.io/codeconvey/pen/bGdYvw)
+- [W3Schools](w3schools.com) is used to get help for the project. 
 
 
 ### Media
