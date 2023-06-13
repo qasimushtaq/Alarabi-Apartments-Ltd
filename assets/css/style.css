@@ -50,7 +50,9 @@ body {
     float: right;
     line-height: 150px;
 }
-
+#hero-outer {
+    position: relative;
+}
 #hero-image {
     height: 600px;
     width: 100%;
