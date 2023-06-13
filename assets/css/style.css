@@ -16,7 +16,7 @@ body {
 .header {
     overflow: hidden;
     background-color: white;
-    padding: 60px 30px;
+    padding: 40px 10px;
 }
 
 .header a {
@@ -248,6 +248,7 @@ footer>p {
 /*About us photo*/
 img {
     max-width: 600px;
+    width: 90%;
     float: left;
     border: 3px solid white;
     border-radius: 10px;
@@ -402,6 +403,8 @@ img {
 
     .header-right {
         float: none;
+        margin-right:auto;
+        margin-left: auto;
     }
 
     /*Text on Image CSS*/
@@ -414,7 +417,7 @@ img {
 
     /*main image css*/
     #hero-image {
-        width: 210%;
+        /*width: 210%;*/
     }
 
     /*main headline css*/
@@ -424,19 +427,22 @@ img {
     }
 
     #welcome-message {
-        width: 200%;
+        /*width: 200%;*/
     }
 
     /*banners on home page css*/
     #banner-left {
 
-        width: 150%;
+        /*width: 150%;*/
+        margin:auto;
+        float: none;
     }
 
     #banner-right {
-        margin-left: 200px;
-        Width: 150%;
+        /*margin-left: 200px;*/
+        /*Width: 150%;*/
         float: none;
+        margin:auto;
     }
 
     .col-right {
@@ -466,7 +472,7 @@ img {
     }
 
     footer {
-        width: 210%;
+        /*width: 210%;*/
     }
 
     /*css for image and text on about us page*/
