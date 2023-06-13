@@ -34,6 +34,25 @@ The objective of this project is to develop a user-friendly platform that both n
 
 From business perspective, there are two types of customers, one is normal customer who can see business services and information and other is B2B customer who can contact business to make a long term business relationship. 
 
+### User Stories
+
+* As the Director of this property business, I would like to develop a stronger online presence, so that I can expand my customer base while also sustaining open communication with my existing customers.
+
+* As the Director I would like to provide basic company and service information to cut down on the amount of time spent on the phone during the working day as we only have one other member of staff currently employed and that time needs to be spent on the services we provide.
+
+* As an employee, I would like to provide up to date and informative content about our services to our existing customers and attract new customers by making the business more easily accessible.
+
+* As a new user, I would like to know more about the business and what they offer so that I can see if I would be able to develop a rapport with them as this will be a service I will need on a regular basis.
+
+* As a new user, I would like to know what services they offer, the prices of these services and to contact them.
+
+* As a new user I would like to see customer reviews of the service and the business so that I can determine the level of quality of the service. This service is important and I need to know that the company are trustworthy and professional.
+
+* As a potential user, I would like to be able to contact the business online as I have a very busy schedule and do not have alot of free time to call.
+
+* As a potenial user I would like to be able to book in for a service online in advance to save time.
+
+
 ## Features
  - General (navbar, logo, footer, social links)
  - Home Page ( list of services, and general description of the business)
