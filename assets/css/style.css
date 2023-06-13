@@ -275,7 +275,7 @@ img {
 /*Style for Customer review section*/
 #customers {
     height: 200px;
-    background-color: lightgray;
+    background-color: #f1f1f1;
     width: 80%;
     margin: 0px 50px 20px 150px;
     border-radius: 30px;
