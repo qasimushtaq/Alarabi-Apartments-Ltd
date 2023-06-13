@@ -58,7 +58,7 @@ body {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url("/workspaces/Alarabi-Apartments-Ltd/assets/images/person_cleaning_surface.png")no-repeat center center;
+    background: no-repeat center center;
 
     /* Animates zoom effect on loading the page */
     animation-name: hero-zoom;
