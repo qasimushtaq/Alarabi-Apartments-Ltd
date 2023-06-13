@@ -58,7 +58,7 @@ body {
 #hero-image{
     height: 600px;
     width: 100%;
-    background: url("https: //www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quillsuk.co.uk%2Fcleaning-hygiene-services%2F&psig=AOvVaw32VBY-NZXGS4LjD2-C_SK2&ust=1686575287176000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCiwuaOwP8CFQAAAAAdAAAAABAb")no-repeat center center;
+    background: url("https: //www.quillsuk.co.uk/wp-content/uploads/2020/05/Cleaning-Hygiene-Services-header-1500x430.jpg.webp")no-repeat center center;
 
     /* Animates zoom effect on loading the page */
     animation-name: hero-zoom;
